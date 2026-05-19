@@ -31,7 +31,7 @@ export const personalInfo: PersonalInfo = {
     '拥有丰富的互联网研发经验，擅长从 0 到 100 搭建项目、业务重构、服务拆分、数据迁移和系统保障巡检。',
   avatar: avatarUrl,
   wechatQr: wechatQrUrl,
-  email: 'guang_yl@163.com',
+  email: '1034@163.com',
   github: 'https://github.com/ligyDt',
   summary: [
     '长期参与互联网业务研发，覆盖项目从 0 到 100、既有业务重构、服务拆分、数据迁移和稳定性保障巡检。',
