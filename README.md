@@ -51,6 +51,8 @@ Darren Dev Portfolio 是一个单文件静态个人作品集网站，用于展�
 │       ├── wx.png              # 微信二维码
 │       ├── 个人作品集.png       # 个人作品集预览截图
 │       └── ctrip/              # 携程酒店数据采集平台项目截图
+├── templates/
+│   └── portfolio_offline.html  # 离线作品集页面模板
 ├── README.md                   # 项目说明文档
 ├── PRD.md                      # 产品需求文档
 ├── TECH_DESIGN.md              # 技术设计文档
